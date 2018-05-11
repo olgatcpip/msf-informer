@@ -18,6 +18,8 @@ MySportFilm informer
 
 * подключить скрипты и стили
 * создать контейнер и вызвать и нициализацию
+
+```html
 <script>
     $(document).ready(function(){
 
@@ -28,3 +30,4 @@ MySportFilm informer
 
     });
 </script>
+```
