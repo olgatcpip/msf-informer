@@ -20,6 +20,7 @@ MySportFilm informer
 * создать контейнер и вызвать и нициализацию
 
 ```html
+<div id="msf"></div>
 <script>
     $(document).ready(function(){
 
