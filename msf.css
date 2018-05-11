@@ -1,0 +1,68 @@
+.msf-box, .msf-box a{
+    color: #000;
+    font-size: 16px;
+    line-height: 18px;
+}
+.msf-box a
+{
+    text-decoration: underline;
+}
+.msf-box .text-gray{
+    color: #808080;
+}
+.msf-box .text-bold{
+    font-weight: bold;
+}
+.msf-box .btn-default {
+    color: #fff;
+    background-color: #3399cc;
+    border-color: #3399cc;
+}
+.msf-border
+{
+    width: 100%;
+    border-top: 1px solid #eee;
+    margin: 20px 0px;
+    padding-top: 10px;
+    padding-left: 50px;
+    text-transform: uppercase;
+}
+.msf-border span {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+}
+.msf-txt
+{
+    font-size: 14px;
+    line-height: 16px;
+}
+.msf-result {
+    text-transform: uppercase;
+}
+.msf-form{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.msf-item,.msf-box-header, .msf-pages{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.msf-item
+{
+    margin: 10px 0;
+    font-size: 16px;
+    line-height: 20px;
+}
+.msf-box-header{
+    font-size: 24px;
+    line-height: 28px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+.msf-error
+{
+    color: #ff0000;
+
+}
